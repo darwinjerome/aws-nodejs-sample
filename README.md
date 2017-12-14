@@ -12,12 +12,12 @@ dependencies (including the AWS SDK for Node.js) can be installed with:
 ## Basic Configuration
 
 You need to set up your AWS security credentials before the sample code is able
-to connect to AWS. You can do this by creating a file named "credentials" at ~/.aws/ 
+to connect to AWS. You can do this by creating a file named "credentials" at ~/.aws/
 (C:\Users\USER_NAME\.aws\ for Windows users) and saving the following lines in the file:
 
     [default]
-    aws_access_key_id = <your access key id>
-    aws_secret_access_key = <your secret key>
+    aws_access_key_id = AKIAI4ZSXFMV3SKDKMFA
+    aws_secret_access_key = 6Ewfr02yZfpvp8oQjt1q3FMl8Jd+UUj2VWIFKFn+
 
 See the [Security Credentials](http://aws.amazon.com/security-credentials) page.
 It's also possible to configure your credentials via a configuration file or
